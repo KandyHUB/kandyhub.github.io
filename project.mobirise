@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "About.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 30,
     "versionPublish": "4.7.2",
@@ -1589,7 +1589,7 @@
         }
       ]
     },
-    "page3.html": {
+    "About.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "About Us",
