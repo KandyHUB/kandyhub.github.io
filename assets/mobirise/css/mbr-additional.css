@@ -1372,6 +1372,29 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qSnU1Zq3HP {
+  background: #ffffff;
+}
+.cid-qSnU1Zq3HP .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qSnU1Zq3HP .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qSnU1Zq3HP figcaption {
+  position: relative;
+}
+.cid-qSnU1Zq3HP figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qSnU1Zq3HP .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qSnq5FaRyc .navbar {
   padding: .5rem 0;
   background: #333333;
