@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "KandyHUB",
     "currentPage": "mobilepakages.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 45,
@@ -40,7 +40,13 @@
         "name": "Rubik",
         "css": "'Rubik', sans-serif"
       }
-    ]
+    ],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
